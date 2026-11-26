@@ -1,16 +1,15 @@
-# Security+ study notes (my own words)
+# Security+ notes
 
-Study log for CompTIA Security+ SY0-701. I have not taken the exam. These notes are my own summaries; official objectives are at comptia.org.
+My study notes for CompTIA Security+ SY0-701. Haven't taken the exam yet, I'm just writing things in my own words so they stick. Official objectives are on comptia.org.
 
-## CIA triad
-- Confidentiality: only the right people can read data
-- Integrity: data isn't changed without permission
-- Availability: systems work when needed
+CIA triad:
+- confidentiality: only the right people can read it
+- integrity: nobody changes it without permission
+- availability: it's there when you need it
 
-## Notes so far
-- Authentication factors: something you know, have, are
-- Phishing: fake messages that trick people into giving credentials. Defences: awareness, MFA, email filtering
-- Least privilege: give only the access a job needs
+Topics so far:
+- auth factors: something you know, have, or are
+- phishing: fake messages after your credentials. MFA and email filtering help, plus knowing what to look for
+- least privilege: only give the access the job needs
 
-## Plan
-Add one topic per week, with a small hands-on example where possible.
+Trying to add one topic a week, with a small hands-on bit when I can.
